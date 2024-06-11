@@ -2,7 +2,7 @@
 Connect to sensor with BLE and receive data
 
 ## Usage:
-```cmd
+```c
 ./BK467-Receiver.exe
 ./BK467-Receiver.exe [IP] [PORT] # default: 0.0.0.0:10000
 ./BK467-Receiver.exe -h
