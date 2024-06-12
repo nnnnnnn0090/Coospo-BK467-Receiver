@@ -10,3 +10,6 @@ Connect to sensor with BLE and receive data
 
 https://www.bluetooth.com/specifications/specs/gatt-specification-supplement-5/    
 https://gist.github.com/sam016/4abe921b5a9ee27f67b3686910293026
+
+
+MIT License: https://github.com/hbldh/bleak?tab=MIT-1-ov-file#readme
