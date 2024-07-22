@@ -1,5 +1,5 @@
 # Coospo-BK467-Receiver 
-Connect to sensor with BLE and receive data
+Connect to sensors and receive data via BLE
 
 ## Usage:
 ```c
