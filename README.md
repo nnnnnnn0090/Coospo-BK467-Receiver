@@ -8,7 +8,8 @@ Connect to sensors and receive data via BLE
 ./BK467-Receiver.exe -h
 ```
 
-Please contact me if you need the source code.
+~~Please contact me if you need the source code.~~
+Open sourced🎉
 
 https://www.bluetooth.com/specifications/specs/gatt-specification-supplement-5/    
 https://gist.github.com/sam016/4abe921b5a9ee27f67b3686910293026
