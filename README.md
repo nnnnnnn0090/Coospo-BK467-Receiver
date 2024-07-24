@@ -8,6 +8,9 @@ Connect to sensors and receive data via BLE
 ./BK467-Receiver.exe -h
 ```
 
+Open in browser  
+http://127.0.0.1:10000
+
 ~~Please contact me if you need the source code.~~  
 Open sourced🎉
 
