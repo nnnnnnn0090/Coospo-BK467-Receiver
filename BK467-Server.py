@@ -17,10 +17,10 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 # | name       |  type  |  size  |
 # |------------|--------|--------|
 # | Flag       | struct | 1 byte |
-# | CumWheel   | uint32 | 4 byte | // unused
-# | LastWheel  | uint32 | 2 byte | // unused
-# | CumCrank   | uint32 | 2 byte |
-# | LastCrankTm| uint32 | 2 byte |
+# | CumWheel   | uint32 | 4 byte | 
+# | LastWheel  | uint32 | 4 byte |
+# | CumCrank   | uint32 | 4 byte |
+# | LastCrankTm| uint32 | 4 byte |
 
 # Flag Structure
   # bit 0  : Wheel Revolution Data is present
